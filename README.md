@@ -1,2 +1,2 @@
-# collabcomm-channel
-Collaborative Commerce Experience Distribution Channel
+# persona-channel
+Collaborative Commerce Experience Distribution Channel shared with different persona
